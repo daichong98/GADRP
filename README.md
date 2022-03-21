@@ -1,5 +1,5 @@
 # GADRP
-Source code and data for "GraphCDR: A graph neural network method with contrastive learning for cancer drug response prediction
+Source code and data for "GADRP: Graph Neural Network and Autoencoder for Drug Response Prediction"
 # Requirements
 * Python == 3.7.10
 * PyTorch == 1.9.0
