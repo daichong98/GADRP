@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@5fb7207e-9c1e-4b79-ac38-1e3de077bc3f" />
+        <remote-mappings server-id="python@sftp://wh@192.168.249.74:22/home/wh/miniconda3/envs/pytorch7/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/preprocess" remote-root="/home/wh/python_file/GADRP" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
