@@ -1,6 +1,8 @@
 # GADRP
 Source code and data for "GADRP: Graph Neural Network and Autoencoder for Drug Response Prediction"
 # Data
+* 269-dim-physicochemical.csv - Physicochemical properties of drugs
+* 881-dim-fingerprint.csv - Molecular fingerprint of drugs
 * miRNA_470cell_734dim.csv - MicroRNA expression data of cell lines
 * CpG_407cell_69641dim.csv - DNA methylation data of cell lines
 * RNAseq_462cell_48392dim.csv - Gene expression data of cell lines
