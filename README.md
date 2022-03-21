@@ -7,7 +7,7 @@ Source code and data for "GADRP: Graph Neural Network and Autoencoder for Drug R
 * CpG_407cell_69641dim.csv - DNA methylation data of cell lines
 * RNAseq_462cell_48392dim.csv - Gene expression data of cell lines
 * copynumber_461cell_23316dim.csv - DNA copy number data of cell lines
-* drug_cell.csv - response data between drugs and cell lines
+* drug_cell_response.csv - response data between drugs and cell lines
 # Requirements
 * Python == 3.7.10
 * PyTorch == 1.9.0
